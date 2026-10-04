@@ -58,4 +58,4 @@ git clone https://github.com/vehbi86/programlama-dilleri-2.git
 cd programlama-dilleri-2
 ```
 
-Depo şu anda özeldir. Erişim izni bulunan kullanıcılar kendi GitHub oturumlarıyla klonlayabilir.
+Depo herkese açıktır. Öğrenciler GitHub hesabı olmadan materyalleri görüntüleyebilir ve depoyu klonlayabilir.
