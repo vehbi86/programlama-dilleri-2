@@ -1,0 +1,18 @@
+# IDE ve derleme çıktıları
+.idea/
+.gradle/
+.kotlin/
+**/build/
+*.iml
+.externalNativeBuild/
+.cxx/
+
+# Bilgisayara özel ayarlar ve imzalama dosyaları
+local.properties
+*.jks
+*.keystore
+keystore.properties
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
