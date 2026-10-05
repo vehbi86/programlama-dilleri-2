@@ -51,6 +51,18 @@ Derleme çıktıları, IDE önbellekleri ve bilgisayara özel ayarlar yüklenmez
 [Android hava durumu uygulaması](https://github.com/vehbi86/hava_durumu_api) ayrı depoda bulunuyor.
 Haftası belirlendiğinde bu dersin ilgili klasörüne kaynak kodları ve sunumu eklenebilir.
 
+## İndirmeden çalıştır
+
+[Hava durumu uygulamasını tarayıcıdaki Android emülatöründe aç](https://appetize.io/app/b_o3qqp3zmiuifl3b62cn2h5xzvy)
+
+1. Bağlantıyı bilgisayarınızın veya telefonunuzun tarayıcısında açın.
+2. **Tap to Start** düğmesine basın.
+3. Android uygulaması açıldığında hava durumu verilerini görüntüleyin; **Yenile** düğmesiyle tekrar veri isteyin.
+
+Öğrencilerin APK indirmesine veya Android Studio kurmasına gerek yoktur. İnternet bağlantısı gerekir.
+Appetize hesabının süre ve eş zamanlı cihaz sınırları geçerlidir; sınır dolduğunda bekleme veya oturum kısıtlaması olabilir.
+Bu bağlantı uygulamayı denemek içindir; kaynak kod üzerinde geliştirme yapmak için [hava durumu projesinin kurulum adımlarını](https://github.com/vehbi86/hava_durumu_api#kurulum) izleyin.
+
 ## Yerel kullanım
 
 ```sh
